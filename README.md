@@ -2,7 +2,7 @@ hi !
 
 comfortable with html, css, python  
 okaayyy with java, js, c++  
-warming up to swift
+warming up to swift ui
 
 current [liberty mutual](https://github.com/libertymutual) intern, prev [factset](https://github.com/factset) 
 
