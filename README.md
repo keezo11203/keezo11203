@@ -4,7 +4,7 @@ comfortable with html, css, python
 okaayyy with java, js, c++  
 warming up to swift ui
 
-current [liberty mutual](https://github.com/libertymutual) intern, prev [factset](https://github.com/factset) 
+previously @ [liberty mutual](https://github.com/libertymutual) and [factset](https://github.com/factset) 
 
 interested in frontend dev (web and mobile), ux/ui, learning about data analytics
 
